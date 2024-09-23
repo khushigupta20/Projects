@@ -1,3 +1,11 @@
+/*
+This project is a Python-based automation tool designed to retrieve and process research articles from PubMed Central (PMC) using the NCBI 
+E-utilities API. It efficiently queries articles based on a user-defined search term, extracts essential details such as titles, links, 
+article types, and supplementary datasets, and saves the information in a structured CSV format. Additionally, the tool filters articles to 
+highlight those containing supplementary materials, making it highly useful for researchers seeking to automate the collection of relevant 
+publications and associated datasets for further analysis and research.
+*/
+
 pip install requests beautifulsoup4 pandas
 import requests
 from bs4 import BeautifulSoup
