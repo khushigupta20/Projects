@@ -3,6 +3,10 @@
 # Professional Portfolio Website 
 https://khushigupta.mystrikingly.com/
 
+# Certificates
+1. Python for Data Science: https://drive.google.com/file/d/1K-8r54BNAhLvzH7X_o48kx8yIAq1XVmR/view?usp=sharing
+2. Career Essentials in Generative AI by LinkedIn & Microsoft: https://drive.google.com/file/d/10o5SYdj9jKpjz70AK77nDQlMRwDnYD5Q/view?usp=sharing
+
 # Small Prototype of RAG
 
 When I started learning about Retrieval-Augmented Generation (RAG), I developed a small prototype to practice and understand its core components. The prototype integrates two key models: DPR (Dense Passage Retrieval) for retrieving relevant context based on a given query and BART (Bidirectional and Auto-Regressive Transformers) for generating answers based on the retrieved context. I used a simple set of example passages and encoded them into context embeddings. For a query, the system retrieves the closest matching context using DPR's dot product similarity, and then BART generates an answer by combining the query and the retrieved context. This prototype allowed me to get hands-on experience with how RAG systems work and helped deepen my understanding of retrieval and generation tasks.
