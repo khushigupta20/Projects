@@ -1,4 +1,8 @@
 # Projects
+
+# Professional Portfolio Website 
+https://khushigupta.mystrikingly.com/
+
 # Small Prototype of RAG
 
 When I started learning about Retrieval-Augmented Generation (RAG), I developed a small prototype to practice and understand its core components. The prototype integrates two key models: DPR (Dense Passage Retrieval) for retrieving relevant context based on a given query and BART (Bidirectional and Auto-Regressive Transformers) for generating answers based on the retrieved context. I used a simple set of example passages and encoded them into context embeddings. For a query, the system retrieves the closest matching context using DPR's dot product similarity, and then BART generates an answer by combining the query and the retrieved context. This prototype allowed me to get hands-on experience with how RAG systems work and helped deepen my understanding of retrieval and generation tasks.
