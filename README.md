@@ -13,6 +13,12 @@ When I started learning about Retrieval-Augmented Generation (RAG), I developed 
 
 FOR MORE DETAILS CHECK OUT: https://github.com/khushigupta20/Small-Prototype-of-RAG
 
+# RAG
+
+When I started exploring advanced document retrieval and question-answering techniques, I built a prototype to deepen my understanding of vector-based retrieval and generation models. This project integrates Llama Index, LangChain, and Hugging Face’s LLaMA-2 model, providing hands-on experience in creating context-aware responses. I indexed a set of example documents into vector embeddings, allowing the system to retrieve relevant contexts based on similarity to a given query. With the closest matching context retrieved, the LLaMA-2 model generates a tailored response by conditioning on both the query and retrieved context. Developing this prototype helped me grasp the core mechanics of vector-based retrieval and how to effectively leverage large language models for accurate, coherent answers in open-domain Q&A tasks.
+
+FOR MORE DETAILS CHECK OUT: https://github.com/khushigupta20/RAG
+
 # Wikipedia Page Web Scrapper
 
 This project involves developing a Python-based web scraper that extracts detailed information about the members of the 17th Lok Sabha from a Wikipedia page and stores the data in a structured format. Utilizing `requests` for HTTP requests and `BeautifulSoup` for parsing HTML content, the script navigates through the table of members on the Wikipedia page and extracts key information, including Constituency, Name, Party & a hyperlink to each member's profile. The script efficiently handles variations in the table structure, such as rows with merged cells or vacant entries, ensuring accurate data collection. Once the data is extracted, it is stored in a CSV file, allowing for easy access and further analysis. The CSV file includes headers for the key attributes of each member, providing a structured and organized dataset for future use. This project demonstrates the application of web scraping techniques and data processing for collecting publicly available information and converting it into a usable format.
