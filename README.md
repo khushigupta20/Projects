@@ -19,6 +19,12 @@ When I started exploring advanced document retrieval and question-answering tech
 
 FOR MORE DETAILS CHECK OUT: https://github.com/khushigupta20/RAG
 
+# Code Optimizer
+
+This project involves developing a Python-based Code Optimizer tool aimed at analyzing and enhancing code efficiency by identifying areas for improvement. The tool leverages Python libraries such as ast (Abstract Syntax Trees) to parse and analyze the structure of the input code. It identifies potential inefficiencies, such as redundant operations, unused variables, and suboptimal loop structures, and provides recommendations for optimization. Additionally, the project includes mechanisms to ensure the optimized code maintains functional equivalence with the original. This project demonstrates the application of advanced code analysis techniques to improve software performance and reliability, making it a valuable resource for developers seeking to refine their coding practices.
+
+FOR MORE DETAILS CHECK OUT: https://github.com/khushigupta20/code_optimizer
+
 # Wikipedia Page Web Scrapper
 
 This project involves developing a Python-based web scraper that extracts detailed information about the members of the 17th Lok Sabha from a Wikipedia page and stores the data in a structured format. Utilizing `requests` for HTTP requests and `BeautifulSoup` for parsing HTML content, the script navigates through the table of members on the Wikipedia page and extracts key information, including Constituency, Name, Party & a hyperlink to each member's profile. The script efficiently handles variations in the table structure, such as rows with merged cells or vacant entries, ensuring accurate data collection. Once the data is extracted, it is stored in a CSV file, allowing for easy access and further analysis. The CSV file includes headers for the key attributes of each member, providing a structured and organized dataset for future use. This project demonstrates the application of web scraping techniques and data processing for collecting publicly available information and converting it into a usable format.
